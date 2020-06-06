@@ -129,4 +129,7 @@ iOSInjectionProject/
 ### Xcode Patch ###
 **/xcshareddata/WorkspaceSettings.xcsettings
 
+### API Keys 
+**/Web/ApiKeys.swift
+
 # End of https://www.gitignore.io/api/xcode,macos,swift
